@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-Connect with me :
+<h2>Connect with me :</h2>
