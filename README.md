@@ -78,4 +78,4 @@ Ici se trouve une petite description de moi :
 
 <h2>Connect with me :</h2>
 
-<img width="26px" src="./img/in.svg" style="color: white;"/>
+<a href="www.linkedin.com/in/xavier-beauchamp"><img width="26px" src="./img/in.svg"></a>
