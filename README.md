@@ -2,19 +2,6 @@
 
 <h1>Hello and welcome to my Github page.</h1>
 
-<!--START_SECTION:activity-->
-
-### My daily routine :
-
-```mermaid
-    graph TD;
-        code-->Eat;
-        Eat-->Sleep;
-        Sleep-->Code;
-```
-
-<!--END_SECTION:activity-->
-
 <h2>English</h2>
 
 Hello to those who visit my Github page! I am a young developer currently looking for a job.
@@ -38,6 +25,19 @@ Ici se trouve une petite description de moi :
 - 👯 Je suis actuellement à la recherche d'un emploi.
 - 📫 Comment me joindre : beauchampx@outlook.com
 - ⚡ Fun fact : J'aime les animaux, la musculation, la littérature et le développement web.
+
+<!--START_SECTION:activity-->
+
+### My daily routine :
+
+```mermaid
+    graph TD;
+        code-->Eat;
+        Eat-->Sleep;
+        Sleep-->Code;
+```
+
+<!--END_SECTION:activity-->
 
 <h2>Languages and Tools :</h2>
 <h3 style="text-decoration: underline;">Front-end :</h3>
@@ -78,4 +78,4 @@ Ici se trouve une petite description de moi :
 
 <h2>Connect with me :</h2>
 
-<a href="www.linkedin.com/in/xavier-beauchamp"><img width="26px" src="./img/in.svg"></a>
+<img width="26px" src="./img/in.svg">
