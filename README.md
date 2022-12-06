@@ -63,7 +63,7 @@ Ici se trouve une petite description de moi :
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=xavierdevweb&show_icons=true&theme=radical&count_private=true&local=cn&" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api?username=xavierdevweb&show_icons=true&theme=radical&count_private=true&local=cn&" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api?username=xavierdevweb&show_icons=true&theme=radical&count_private=true&local=cn&layout=compact" />
 </a>
 
 <h2>Connect with me :</h2>
