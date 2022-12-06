@@ -62,7 +62,7 @@ Ici se trouve une petite description de moi :
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=xavierdevweb&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xavierdevweb&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xavierdevweb&show_icons=true&theme=radical&card_width=100%" />
 </a>
 
 <h2>Connect with me :</h2>
