@@ -6,7 +6,7 @@
 
 Hello to those who visit my Github page! I am a young developer currently looking for a job.
 
-Here are some ideas to get you started:
+Here is a short description of me.
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning technologies like Node JS and React.
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <h2>Français</h2>
 
 Bonjour à ceux et celles qui visitent ma page Github! Je suis un jeune développeur actuellement à la recherche d'un emploi.
+
+Ici se trouve une petite description de moi.
 
 - 🔭 Je travaille actuellement sur des projets personnels.
 - 🌱 J'apprends actuellement des technologies comme Node JS et React.
