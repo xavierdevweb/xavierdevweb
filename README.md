@@ -78,4 +78,4 @@ Ici se trouve une petite description de moi :
 
 <h2>Connect with me :</h2>
 
-<img width="55px" src="./img/in.svg" />
+<img width="26px" src="./img/in.svg" />
