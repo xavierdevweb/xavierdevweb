@@ -60,7 +60,7 @@ Ici se trouve une petite description de moi :
 <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api?username=xavierdevweb&show_icons=true&theme=radical&count_private=true&local=cn&layout=compact" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api?username=xavierdevweb&show_icons=true&theme=radical&count_private=true&local=cn&layout=compact&card_width=1000px" />
 </a>
 
 <h2>Connect with me :</h2>
