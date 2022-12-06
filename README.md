@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-Connect with me :
-
 <h2>Languages and Tools :</h2>
 <h3 style="text-decoration: underline;">Front-end :</h3>
 
@@ -41,4 +39,12 @@ Connect with me :
 
 <h3>CMS :</h3>
 
-<img align="left" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+<img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+
+<h3>Others :</h3>
+
+<img align="left" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="left" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+Connect with me :
