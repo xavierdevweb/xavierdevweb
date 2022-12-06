@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 
 <h3>Others :</h3>
 
-<img align="left" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 Connect with me :
