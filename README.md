@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="./inc/styles/style.css" />
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -16,6 +14,8 @@ Here are some ideas to get you started:
 
 Connect with me :
 
-<h1 class="test">Languages and Tools :</h1>
+<h2>Languages and Tools :</h2>
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
