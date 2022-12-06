@@ -2,6 +2,19 @@
 
 <h1>Hello and welcome to my Github page.</h1>
 
+<!--START_SECTION:activity-->
+
+### My daily routine :
+
+```mermaid
+    graph TD;
+        code-->Eat;
+        Eat-->Sleep;
+        Sleep-->Code;
+```
+
+<!--END_SECTION:activity-->
+
 <h2>English</h2>
 
 Hello to those who visit my Github page! I am a young developer currently looking for a job.
