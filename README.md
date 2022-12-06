@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 Connect with me :
 
 <h2>Languages and Tools :</h2>
+<h3 style="text-decoration: underline;">Front-end :</h3>
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
@@ -25,5 +26,7 @@ Connect with me :
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+<h3>Back-end :</h3>
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
