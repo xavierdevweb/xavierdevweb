@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 Connect with me :
 
-![img_contact](./img/html5.svg)
+Languages and Tools :
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
