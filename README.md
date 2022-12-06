@@ -30,3 +30,5 @@ Connect with me :
 <h3>Back-end :</h3>
 
 <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
