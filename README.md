@@ -77,3 +77,5 @@ Ici se trouve une petite description de moi :
 </a>
 
 <h2>Connect with me :</h2>
+
+<img width="55px" src="./img/in.svg" />
